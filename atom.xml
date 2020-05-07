@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jianjianus.github.io</id>
-    <title>jianjian</title>
-    <updated>2020-05-07T05:14:25.278Z</updated>
+    <title>劍劍</title>
+    <updated>2020-05-07T12:49:07.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jianjianus.github.io"/>
     <link rel="self" href="https://jianjianus.github.io/atom.xml"/>
     <logo>https://jianjianus.github.io/images/avatar.png</logo>
     <icon>https://jianjianus.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, jianjian</rights>
+    <rights>All rights reserved 2020, 劍劍</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jianjianus.github.io/hello-gridea/</id>
